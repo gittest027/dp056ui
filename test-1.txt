@@ -1,7 +1,11 @@
 *** Dp-056 UI ***
 Sasha
 Anton
+<<<<<<< HEAD
 Illya
 Natasha
 Ira
 *** Dp-056 UI ***
+=======
+Illya
+>>>>>>> 0f1b7ccfa12961d53508454abbe6a3e65b7f01f9
